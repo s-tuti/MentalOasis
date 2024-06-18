@@ -1,5 +1,6 @@
 # Mental Oasis
 
+Mental Oasis is a comprehensive mental health platform that aims to support individuals in managing stress, anxiety, and other mental health challenges. The website offers various tools and resources, including guided meditations, self-help articles, and a supportive community forum. It was developed during a hackathon to address the growing need for accessible mental health resources.
 
 
 ## Table of Contents
@@ -8,8 +9,6 @@
 - [Technologies Used](#technologies-used)
 - [Team](#team)
 - [License](#license)
-
-Mental Oasis is a comprehensive mental health platform that aims to support individuals in managing stress, anxiety, and other mental health challenges. The website offers various tools and resources, including guided meditations, self-help articles, and a supportive community forum. It was developed during a hackathon to address the growing need for accessible mental health resources.
 
 ## Features
 
