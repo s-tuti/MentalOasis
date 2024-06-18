@@ -1,6 +1,6 @@
 # Mental Oasis
 
-Welcome to Mental Oasis, a mental health website designed to help individuals get rid of all the negatives in their lives. This project was created as part of a hackathon to provide a safe space for people to explore various mental health resources and support mechanisms.
+
 
 ## Table of Contents
 
@@ -8,8 +8,6 @@ Welcome to Mental Oasis, a mental health website designed to help individuals ge
 - [Technologies Used](#technologies-used)
 - [Team](#team)
 - [License](#license)
-
-## About
 
 Mental Oasis is a comprehensive mental health platform that aims to support individuals in managing stress, anxiety, and other mental health challenges. The website offers various tools and resources, including guided meditations, self-help articles, and a supportive community forum. It was developed during a hackathon to address the growing need for accessible mental health resources.
 
